@@ -1,0 +1,2 @@
+# LogisticRegression
+Predicting Titanic survival
